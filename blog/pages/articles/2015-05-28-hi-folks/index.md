@@ -1,20 +1,46 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+title: Happy Monday
+date: "2017-06-26T22:40:32.169Z"
 layout: post
-path: "/hi-folks/"
-category: "FrontEnd"
-description: "Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices."
+path: "/this-week-june-26/"
+category: "thisweek"
+description: "This Week."
 ---
 
-*This post is going to be a little hard to read for those that don't speak latin.*
+Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel neque dignissim mi maximus interdum. Cras dictum quam et ex molestie facilisis. Proin dapibus sed sapien nec gravida. Praesent at leo ut erat varius rhoncus at non mi. Quisque cursus non leo et varius. Maecenas porttitor scelerisque sapien at venenatis. Proin pellentesque gravida elementum. Nam eget porttitor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec commodo lacus, eu mollis nisi. Nullam felis mi, tempus ac ipsum a, venenatis blandit magna. Sed mattis magna est, quis tincidunt massa aliquam vitae. Ut in ipsum blandit, ultrices lacus a, condimentum nibh. Sed commodo, lorem eget interdum molestie, lacus nisi lacinia velit, tempus commodo lacus erat porttitor dolor.
+It was a balmy 80* in Akron, and being greeted by 100+* weather here in PDX was far from welcome. Fortunately, Dave and I took a trip to Cape Falcon on the coast, and got away from the heat for a bit.
 
-Phasellus vitae ante justo. Fusce dui elit, finibus non posuere sed, ullamcorper at odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque molestie lorem dolor, eget tincidunt ligula suscipit sit amet. Maecenas tempor nulla orci, sed scelerisque massa convallis id. Fusce iaculis nibh et lectus bibendum viverra. Nulla volutpat vehicula tortor non cursus. Maecenas vulputate mi nec accumsan ultricies. Praesent vitae tellus ligula. Praesent placerat fringilla purus, ac fermentum ipsum faucibus sed. Fusce semper, sapien hendrerit fringilla sagittis, lacus felis accumsan tellus, ac mollis ex arcu vitae lorem. Duis vitae semper felis. Duis consectetur, diam id laoreet suscipit, felis felis imperdiet sem, vel posuere leo ligula nec sapien. Maecenas at imperdiet nulla. Quisque quam nibh, feugiat vitae rhoncus ac, hendrerit eu quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+<figure class="floatRight">
+	<img style="height: 310px;" src="./dave-on-trail.jpg" alt="Dave-trail">
+	<figcaption>Dave on the trail</figcaption>
+</figure>
 
-Nullam vehicula lorem sed felis rutrum gravida. Nam mattis cursus lacinia. Cras sit amet interdum elit. Morbi viverra, est a tincidunt facilisis, est est maximus urna, id rhoncus mi metus et lacus. Pellentesque finibus ex vel nulla fermentum tempus. Nunc vel lorem enim. Sed varius scelerisque nulla, nec ultrices ligula gravida eu. Curabitur eu turpis sit amet nisl vehicula tempor ultrices eu lacus. Curabitur malesuada nulla neque. Aenean mattis lectus ex, molestie ultricies elit fringilla eget. Quisque iaculis volutpat nisl, vitae lobortis ipsum elementum sed. Nulla facilisi. Maecenas cursus turpis ac lacus efficitur, non bibendum ligula consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris accumsan placerat felis, at bibendum ante.
+Here's what's going on in Portland this week:
 
-Quisque varius dui vel commodo lobortis. Vestibulum eu metus vel dui lobortis volutpat. Cras vitae neque ornare, vehicula urna et, efficitur dolor. Nunc congue euismod leo non rhoncus. Nulla mollis libero a ullamcorper placerat. Morbi bibendum viverra orci in auctor. Donec in est varius, hendrerit risus vitae, commodo purus. Praesent eget rhoncus ligula. Suspendisse quis ultricies ligula. Nullam tincidunt rutrum nisl eget luctus. Phasellus eget nulla semper, varius ligula a, gravida urna. Etiam tempor feugiat elit eu cursus. Donec tristique ligula a aliquam tempor.
+### Events
 
-Proin nec nunc tellus. Donec sapien leo, ornare quis condimentum a, euismod sit amet augue. Aliquam tincidunt mauris at arcu suscipit, quis scelerisque justo rhoncus. Vestibulum lobortis dui at odio lacinia mattis. Praesent nunc urna, bibendum ut dui eget, consequat suscipit leo. Curabitur auctor vel dui fermentum auctor. Sed ultrices ligula mauris, id blandit sapien ultrices id. Morbi volutpat tortor quis ex convallis aliquam. Nunc eleifend risus eget dui condimentum scelerisque.
+If you're in PDX tech:
+* [Tues, 6/27: Donut JS.](https://donutjs.club/) Donut JS has some excellent speakers lined up this week, and tickets are still available (reminder: if you're a Women Who Code PDX member, you can come for free!).
+* [Wed, 6/28: Javascript Study Night.](https://www.meetup.com/Women-Who-Code-Portland/events/239716562/) Sarah Joy, who runs the study night, is awesome and walks through a new JS tutorial once a month. We're completing one of Wes Bos' #JavaScript30 videos this week. 
+* [Thurs, 6/29: IoT Progressive Web Apps in Angular.](https://www.meetup.com/Women-Who-Code-Portland/events/240544986/) Pretty excited about this one. We will walk through creating a simple Angular IoT application using the Kendo UI for Angular library to get started. Then we’ll see how quickly we can upgrade our application to a PWA. This workshop will be taught by Tara Manicsic (@tzmanics), a developer advocate for Progress and the Director of of Women Who Code Cincinnati. 
+
+### Non-Tech Events: 
+
+Promoting my usual two running meetups; if you need a crew of people to run with, come join us:
+
+* [Portland Running Company: Thirsty Thursday 4-6 mile run @ 6:00p.](https://www.meetup.com/Portland-Running-Co-Weekly-Group-Runs/events/238871360/)
+* [PDX Trail Runners: Saturday at 9:00a @ Forest Park, on the Lower MacLeay Park entrance.](https://www.meetup.com/PDX-Trail-Runners/events/237741875/)
+
+### Articles
+
+Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
+
+* It's project week here at Code Fellows, and I want to give a shout out to the [Spotify API, which has incredible documentation and detailed tutorials for setting up authorization routes.](https://github.com/prettier/prettier) If you're looking for a good API to play with, I highly recommend using Spotify.
+* After our binary exploitation workshop last weekend, reading Antoinette Maria's article on [her first Capture the Flag security competition was a treat.](https://dev.to/_theycallmetoni/capture-the-flag-its-a-game-for-hacki-mean-security-professionals) The CTF rounds sound incredibly fun, and I love the examples that she gives for us to try.
+* I've been working with MongoDB and Mongoose quite a bit lately, and enjoyed [Talk Python's episode on MongoDB applied design patterns.](https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns) Some of the techniques that Rick Copeland discusses were helpful when designing our database in mLab this week.
+* A quick bump for [AlterConf Portland, which has just started selling tickets.](https://alterconf.com/conferences/portland-or-2017) I'm extremely grateful to Ashe Dryden and AlterConf - I won my scholarship to Code Fellows at AlterConf last year. If you're in Portland, please attend and support: 
+    * [AlterConf Tickets and Event Info](https://alterconf.com/conferences/portland-or-2017)
+
+
+Have a great week, everybody!

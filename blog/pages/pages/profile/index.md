@@ -14,14 +14,14 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 <section class="text-center">
   <div class="container">
     <img src="keeley-pic.jpg" alt="keeley-pic" class="rounded-circle mx-auto d-block" width="120px">
-    <h1>Hi, I'm Keeley</h1>
+    <h1>Hi, I'm Keeley.</h1>
     <p class="lead text-muted">I'm a full-stack developer who has experience managing direct reports, overseeing budgets and international projects and creating engaging, innovative solutions for my clients. I excel in the front end and back end of the stack, working with React and Redux and building microservices in Node.</p>
     <p class="lead text-muted">When I'm not in front of a computer screen, I enjoy running slowly for long periods of time, baking muffins and designing sound libraries for video games and indie films.</p>
     <div class="service-box">
         <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="http://jaxx2104.tumblr.com/"><i class="fa fa fa-instagram wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
     </div>
   </div>
 </section>
@@ -30,7 +30,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12 ">
-        <h2 class="section-heading">SKILLS</h2>
+        <h2>Skills & Stack</h2>
         <hr class="primary" />
       </div>
     </div>
@@ -153,6 +153,26 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
             <li><a href="">sample</a></li>
             <li><a href="">sample</a></li>
         </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container text-left">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Contact </h2>
+        <hr class="primary" />
+      </div>
+    <p class="text-muted">If you’re ever in the Portland, OR area, or would just like to chat, you can reach me a few different ways.</p>
+    <p class="text-muted">I like <a href="mailto:keeleyhammond@gmail.com">reading email</a>. I also like <a href="https://twitter.com/keeleyhammond">tweets</a>. You can find me as @keeley in the Women in Tech Slack.</p>
+    <p class="text-muted">And if you happen to be running or biking somewhere in Portland, hit me up on <a href="https://www.strava.com/athletes/3855756">Strava</a>! I’m always open to a new running buddy.</p>
+    <div class="service-box">
+        <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
+    </div>
     </div>
   </div>
 </section>

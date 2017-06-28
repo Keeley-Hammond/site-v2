@@ -1,7 +1,7 @@
 {
   "version": "0.1.1",
-  "name": "gatsby-starter-bootstrap",
-  "description": "Simple starter for Gatsby",
+  "name": "Keeley Hammond personal site",
+  "description": "Personal site built on React and Gatsby",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -19,7 +19,7 @@
     "gatstrap",
     "starter"
   ],
-  "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
+  "author": "Keeley Hammond",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
