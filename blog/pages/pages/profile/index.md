@@ -2,7 +2,7 @@
 id: 1380
 title: "Profile"
 date: 2016-05-15T17:48:12+00:00
-author: jaxx2104
+author: vertedinde
 layout: page
 path: "/profile"
 
@@ -13,9 +13,10 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 
 <section class="text-center">
   <div class="container">
-    <img src="iwa.jpg" alt="jaxx2104" class="rounded-circle mx-auto d-block" width="120px">
+    <img src="keeley-pic.jpg" alt="keeley-pic" class="rounded-circle mx-auto d-block" width="120px">
     <h1>Hi, I'm Keeley</h1>
-    <p class="lead text-muted">I'm a Javascript developer living in Portland, OR.</p>
+    <p class="lead text-muted">I'm a full-stack developer who has experience managing direct reports, overseeing budgets and international projects and creating engaging, innovative solutions for my clients. I excel in the front end and back end of the stack, working with React and Redux and building microservices in Node.</p>
+    <p class="lead text-muted">When I'm not in front of a computer screen, I enjoy running slowly for long periods of time, baking muffins and designing sound libraries for video games and indie films.</p>
     <div class="service-box">
         <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
@@ -76,6 +77,28 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
       <div class="col-lg-3 col-6 ">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
           <i class="fa-4x devicons devicons-angular wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-6 ">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="PHP">
+          <i class="fa-4x devicons devicons-postgresql wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+      <div class="col-lg-3 col-6 ">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Perl">
+          <i class="fa-4x devicons devicons-git wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+      <div class="col-lg-3 col-6 ">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Swift">
+          <i class="fa-4x devicons devicons-firebase wow bounceIn" data-wow-duration="2.0s"></i>
+        </div>
+      </div>
+      <div class="col-lg-3 col-6 ">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
+          <i class="fa-4x devicons devicons-npm wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
