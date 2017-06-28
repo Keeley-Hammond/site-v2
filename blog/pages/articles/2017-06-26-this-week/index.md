@@ -1,13 +1,13 @@
 ---
-title: Happy Monday
+title: This Week (June 26)
 date: "2017-06-26T22:40:32.169Z"
 layout: post
 path: "/this-week-june-26/"
 category: "thisweek"
-description: "Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog."
+description: "Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog. It was a balmy 80* in Akron, and being greeted by 100+* weather here in PDX was far from welcome."
 ---
 
-Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog. 
+Happy Monday! I just got back from a nice week with the family, visiting my parents, brothers, sister and dog. 
 
 It was a balmy 80* in Akron, and being greeted by 100+* weather here in PDX was far from welcome. Fortunately, Dave and I took a trip to Cape Falcon on the coast, and got away from the heat for a bit.
 
