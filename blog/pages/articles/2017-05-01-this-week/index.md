@@ -3,8 +3,8 @@ title: This Week (May 1)
 date: "2017-05-01T23:46:37.121Z"
 layout: post
 path: "/this-week-may-01/"
-category: "FrontEnd"
-description: "Before I became a programmer, my previous life was in the agency world - specifically, in our agency's consulting division. Half of my job was managing projects and people as we crafted new branding and communcations plans; the other half was moderating workshops with executive teams."
+category: "thisweekx"
+description: "Happy Monday! I'm writing this from Akron, OH, visiting my parents and family. Yesterday, my mom and I ran the Pro Football Hall of Fame half marathon for the fifth time - it was blazing hot and dustry, but we did pretty well."
 ---
 
 Happy Monday! I'm writing this from Akron, OH, visiting my parents and family. Yesterday, my mom and I ran the Pro Football Hall of Fame half marathon for the fifth time - it was blazing hot and dustry, but we did pretty well.
