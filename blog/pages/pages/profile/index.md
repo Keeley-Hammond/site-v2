@@ -109,7 +109,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">Features </h2>
+        <h2>Features </h2>
         <hr class="primary" />
       </div>
     </div>
@@ -125,7 +125,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">PORTFOLIO </h2>
+        <h2>Portfolio </h2>
         <hr class="light" />
       </div>
     </div>
@@ -133,16 +133,16 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
-        <p>image1</p>
+        <p>Good Cents</p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
-        <p>image2</p>
+        <p>HOPS Music</p>
       </div>
     </div>
   </div>
 </section>
 
-<section id="repos">
+<!--<section id="repos">
   <div class="container">
     <div class="row">
         <div class="col-md-6 ">
@@ -155,7 +155,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         </div>
     </div>
   </div>
-</section>
+</section>-->
 
 <section id="contact">
   <div class="container text-left">

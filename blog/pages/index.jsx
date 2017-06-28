@@ -6,6 +6,7 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
+import './index.css'
 
 class SiteIndex extends React.Component {
 
@@ -74,6 +75,12 @@ class SiteIndex extends React.Component {
         <div className='container'>
           <div className='articles col-md-12'>
             {pageLinks}
+          </div>
+          <div className="service-box">
+            <a href="https://github.com/vertedinde"><i className="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://twitter.com/keeleyhammond"><i className="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://www.linkedin.com/in/keeleyhammond"><i className="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://codepen.io/VerteDinde/"><i className="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
           </div>
         </div>
       </DocumentTitle>

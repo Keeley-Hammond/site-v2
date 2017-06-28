@@ -4,7 +4,7 @@ date: "2017-06-26T22:40:32.169Z"
 layout: post
 path: "/this-week-june-26/"
 category: "thisweek"
-description: "This Week."
+description: "Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog."
 ---
 
 Happy Monday! I just got back from a nice week with the family; visiting my parents, brothers, sister and dog. 
