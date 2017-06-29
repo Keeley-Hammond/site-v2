@@ -33,7 +33,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     <div class="row">
       <div class="col-lg-12 ">
         <h2>Skills & Stack</h2>
-        <hr class="primary" />
+        <hr class="light" />
       </div>
     </div>
   </div>
@@ -107,42 +107,61 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   </div>
 </section>
 
-<section id="features" class="text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2>Features </h2>
-        <hr class="primary" />
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="service-box">
-    <p>sampletext</p>
-    </div>
-  </div>
-</section>
-
-<section class="bg-danger text-center" id="concept">
+<section class="portfolio text-center" id="concept">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <h2>Portfolio </h2>
-        <hr class="light" />
+        <hr class="primary" />
       </div>
     </div>
   </div>
   <div class="container">
     <div class="row">
       <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
-        <p>Good Cents</p>
+        <h4>Good Cents</h4>
+        <img src="" />
+        <p>Good Cents uses the Plaid API and banking software to allow users to collect their "spare change" from transactions (rounded to the next nearest dollar) and save that change for a larger goal or charitable donation.</p>
+        <p><a a href="">View Repo →</a></p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
-        <p>HOPS Music</p>
+        <h4>HOPS Music</h4>
+        <p>HOPS Music allows people to create a new playlist based on selected friends’ recently playing songs. Users can auto-generate, name, edit and export their playlists to Spotify.</p>
+        <p><a a href="">View Repo →</a></p>
+      </div>
+    </div>
+    </br>
+    <div class="row">
+      <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
+        <h4>Chart My Run</h4>
+        <p>A visualization of the New York City Marathon 2016 Strava data, using Chart.js and d3 libraries. Node and a data scraper used to collect Strava data.</p>
+        <p><a a href="">View Repo →</a></p>
+      </div>
+      <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
+        <h4>'First Timer's Only'</h4>
+        <p>Curriculum designed for Mozilla and Women Who Code Portland, meant to help beginning coders make their first contributions to the open source community.</p>
+        <p><a a href="">Read More →</a></p>
       </div>
     </div>
   </div>
 </section>
+
+<section id="features" class="bg-danger text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>Community </h2>
+        <hr class="light" />
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="service-box">
+    <p>I'm on the leadership team for Women Who Code's Portland chapter. </p>
+    </div>
+  </div>
+</section>
+
 
 <!--<section id="repos">
   <div class="container">
@@ -166,15 +185,15 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         <h2>Contact </h2>
         <hr class="primary" />
       </div>
-    <p class="text-muted">If you’re ever in the Portland, OR area, or would just like to chat, you can reach me a few different ways.</p>
-    <p class="text-muted">I like <a href="mailto:keeleyhammond@gmail.com">reading email</a>. I also like <a href="https://twitter.com/keeleyhammond">tweets</a>. You can find me as @keeley in the Women in Tech Slack.</p>
-    <p class="text-muted">And if you happen to be running or biking somewhere in Portland, hit me up on <a href="https://www.strava.com/athletes/3855756">Strava</a>! I’m always open to a new running buddy.</p>
-    <div class="service-box">
-        <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
-    </div>
+      <p class="text-muted">If you’re ever in the Portland, OR area, or would just like to chat, you can reach me a few different ways.</p>
+      <p class="text-muted">I like <a href="mailto:keeleyhammond@gmail.com">reading email</a>. I also like <a href="https://twitter.com/keeleyhammond">tweets</a>. You can find me as @keeley in the Women in Tech Slack.</p>
+      <p class="text-muted">And if you happen to be running or biking somewhere in Portland, hit me up on <a href="https://www.strava.com/athletes/3855756">Strava</a>! I’m always open to a new running buddy.</p>
+      <div class="service-box">
+          <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
+      </div>
     </div>
   </div>
 </section>

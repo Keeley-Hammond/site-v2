@@ -44,7 +44,7 @@ class SitePost extends React.Component {
                       { config.siteDescr }
                       <Link to={ prefixLink("/profile/") }>
                         <br></br>
-                        <strong>{ config.siteAuthor }</strong> on Profile
+                        <strong>{ config.siteAuthor }</strong>
                       </Link>
                     </p>
                   </div>
