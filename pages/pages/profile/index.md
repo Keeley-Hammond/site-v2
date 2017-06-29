@@ -11,12 +11,14 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 ---
 
 
-<section class="text-center">
+<section class="text-left">
   <div class="container">
     <img src="keeley-pic.jpg" alt="keeley-pic" class="rounded-circle mx-auto d-block" width="120px">
-    <h1>Hi, I'm Keeley.</h1>
-    <p class="lead text-muted">I'm a full-stack developer who has experience managing direct reports, overseeing budgets and international projects and creating engaging, innovative solutions for my clients. I excel in the front end and back end of the stack, working with React and Redux and building microservices in Node.</p>
-    <p class="lead text-muted">When I'm not in front of a computer screen, I enjoy running slowly for long periods of time, baking muffins and designing sound libraries for video games and indie films.</p>
+    <h1 class="text-center">Hi, I'm Keeley.</h1>
+    </br>
+    <p class="lead text-muted">I'm a software engineer currently living in Portland, Oregon. I serve on the leadership team for the Portland chapter of Women Who Code, where I focus on creating and teaching programming curriculum that helps beginners start contributing to OSS.</p>
+    <p class="lead text-muted">I enjoy developing across the stack, speaking at conferences, baking, long-distance running, and hacking away on interesting problems. I primarily work with JavaScript, Node, React, Python, and Angular. I have strong opinions about open source, accessibility, promises (the callback kind), testing, and static websites.</p>
+    <p class="lead text-muted">When not coding, I enjoy running through the mountains of the Columbia Gorge, experimenting and learning new ways to route Internet traffic, and listening to podcasts about American history.</p>
     <div class="service-box">
         <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
@@ -53,29 +55,29 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         </div>
       </div>
       <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="React">
           <i class="fa-4x devicons devicons-react wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="PHP">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Python">
           <i class="fa-4x devicons devicons-python wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Perl">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="CSS">
           <i class="fa-4x devicons devicons-css3 wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Swift">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="MongoDB">
           <i class="fa-4x devicons devicons-mongodb wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Angular">
           <i class="fa-4x devicons devicons-angular wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
@@ -87,17 +89,17 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Perl">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Git">
           <i class="fa-4x devicons devicons-git wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Swift">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Firebase">
           <i class="fa-4x devicons devicons-firebase wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
       <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="npm">
           <i class="fa-4x devicons devicons-npm wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
