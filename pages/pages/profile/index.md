@@ -16,9 +16,9 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     <img src="keeley-pic.jpg" alt="keeley-pic" class="rounded-circle mx-auto d-block" width="120px">
     <h1 class="text-center">Hi, I'm Keeley.</h1>
     </br>
-    <p class="lead text-muted">I'm a software engineer currently living in Portland, Oregon. I serve on the leadership team for the Portland chapter of Women Who Code, where I focus on creating and teaching programming curriculum that helps beginners start contributing to OSS.</p>
+    <p class="lead text-muted"><a href="https://github.com/VerteDinde">I'm a software engineer currently living in Portland, Oregon</a>. I serve on the leadership team for the Portland chapter of Women Who Code, where I focus on creating and teaching programming curriculum that helps beginners start contributing to OSS.</p>
     <p class="lead text-muted">I enjoy developing across the stack, speaking at conferences, baking, long-distance running, and hacking away on interesting problems. I primarily work with JavaScript, Node, React, Python, and Angular. I have strong opinions about open source, accessibility, promises (the callback kind), testing, and static websites.</p>
-    <p class="lead text-muted">When not coding, I enjoy running through the mountains of the Columbia Gorge, experimenting and learning new ways to route Internet traffic, and listening to podcasts about American history.</p>
+    <p class="lead text-muted">When not coding, I enjoy <a href="https://www.strava.com/athletes/3855756">running through the mountains of the Columbia Gorge</a>, <a href="https://blogs.oracle.com/ksplice/hijacking-http-traffic-on-your-home-subnet-using-arp-and-iptables">experimenting and learning new ways to route Internet traffic</a>, and listening to podcasts about American history.</p>
     <div class="service-box">
         <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
