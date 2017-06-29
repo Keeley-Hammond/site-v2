@@ -20,10 +20,10 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     <p class="lead text-muted">I enjoy developing across the stack, speaking at conferences, baking, long-distance running, and hacking away on interesting problems. I primarily work with JavaScript, Node, React, Python, and Angular. I have strong opinions about open source, accessibility, promises (the callback kind), testing, and static websites.</p>
     <p class="lead text-muted">When not coding, I enjoy <a href="https://www.strava.com/athletes/3855756">running through the mountains of the Columbia Gorge</a>, <a href="https://blogs.oracle.com/ksplice/hijacking-http-traffic-on-your-home-subnet-using-arp-and-iptables">experimenting and learning new ways to route Internet traffic</a>, and listening to podcasts about American history.</p>
     <div class="service-box">
-        <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://github.com/vertedinde"><i class="fa fa-github fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
     </div>
   </div>
 </section>
@@ -32,7 +32,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12 ">
-        <h2>Skills & Stack</h2>
+        <h2>Skills & Tools</h2>
         <hr class="light" />
       </div>
     </div>
@@ -156,8 +156,16 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     </div>
   </div>
   <div class="container">
-    <div class="service-box">
+    <div>
     <p>I'm on the leadership team for Women Who Code's Portland chapter. </p>
+    </div>
+    <div class="row">
+      <div class="col-md-6" data-wow-duration="1.0s">
+        <p><a a href="">View Upcoming Meetups </a><i class="fa fa-meetup fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
+      </div>
+      <div class="col-md-6" data-wow-duration="1.0s">
+        <p><a a href="">Join Our Slack </a><i class="fa fa-slack fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
+      </div>
     </div>
   </div>
 </section>
@@ -185,14 +193,16 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         <h2>Contact </h2>
         <hr class="primary" />
       </div>
-      <p class="text-muted">If you’re ever in the Portland, OR area, or would just like to chat, you can reach me a few different ways.</p>
-      <p class="text-muted">I like <a href="mailto:keeleyhammond@gmail.com">reading email</a>. I also like <a href="https://twitter.com/keeleyhammond">tweets</a>. You can find me as @keeley in the Women in Tech Slack.</p>
-      <p class="text-muted">And if you happen to be running or biking somewhere in Portland, hit me up on <a href="https://www.strava.com/athletes/3855756">Strava</a>! I’m always open to a new running buddy.</p>
+      <div>
+        <p class="text-muted">If you’re ever in the Portland, OR area, or would just like to chat, you can reach me a few different ways.</p>
+        <p class="text-muted">I like <a href="mailto:keeleyhammond@gmail.com">reading email</a>. I also like <a href="https://twitter.com/keeleyhammond">tweets</a>. You can find me as @keeley in the Women in Tech Slack.</p>
+        <p class="text-muted">And if you happen to be running or biking somewhere in Portland, hit me up on <a href="https://www.strava.com/athletes/3855756">Strava</a>! I’m always open to a new running buddy.</p>
+      </div>
       <div class="service-box">
-          <a href="https://github.com/vertedinde"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-          <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-          <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
-          <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://github.com/vertedinde"><i class="fa fa-github fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://twitter.com/keeleyhammond"><i class="fa fa fa-twitter fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://www.linkedin.com/in/keeleyhammond"><i class="fa fa fa-linkedin fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
+          <a href="https://codepen.io/VerteDinde/"><i class="fa fa fa-codepen fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a>
       </div>
     </div>
   </div>
