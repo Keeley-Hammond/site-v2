@@ -21,3 +21,8 @@
 .portfolio p {
     text-align: left;
 }
+
+.bg-bluegreen {
+    background-color: #00B7AB;
+    color: white;
+}

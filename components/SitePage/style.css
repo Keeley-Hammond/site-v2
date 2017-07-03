@@ -11,7 +11,7 @@ body {
 }
 
 hr {
-    border-color: #f05f40;
+    border-color: #00B7AB;
     border-width: 3px;
     max-width: 50px;
 }
@@ -24,7 +24,7 @@ a {
     -webkit-transition: all 0.35s;
     -moz-transition: all 0.35s;
     transition: all 0.35s;
-    color: #f05f40;
+    color: #00B7AB;
 }
 a:hover,
 a:focus {
@@ -37,7 +37,7 @@ p {
 }
 
 .bg-danger {
-    background-color: #f05f40;
+    background-color: #00B7AB;
     color: white;
 }
 
@@ -150,7 +150,7 @@ header .header-content .header-content-inner p {
     color: white;
     opacity: 0;
     display: block;
-    background: rgba(240, 95, 64, 0.9);
+    background: #00B7AB;
     position: absolute;
     bottom: 0;
     text-align: center;

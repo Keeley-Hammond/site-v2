@@ -8,16 +8,16 @@ class SiteNavi extends React.Component {
     const { location } = this.props
     const { title } = this.props
     return (
-      <nav className="navbar sticky-top navbar-toggleable-sm navbar-inverse bg-danger">
+      <nav className="navbar sticky-top navbar-toggleable-sm navbar-inverse bg-bluegreen">
         <button className="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="container">
-          <Link className="text-center" to={prefixLink('/')}><h1 className="navbar-brand mb-0">{title}</h1></Link>
+          <Link className="text-center" to={prefixLink('/profile/')}><h1 className="navbar-brand mb-0">{title}</h1></Link>
           <div className="navbar-collapse collapse" id="navbarColor02" aria-expanded="false">
             <ul className="navbar-nav mr-auto">
               <li className={location.pathname === prefixLink('/work/') ? 'nav-item active' : 'nav-item'}>
-                <Link to={prefixLink('/profile/')} className="nav-link">Work</Link>
+                <Link to={prefixLink('/projects/')} className="nav-link">Work</Link>
               </li>
               <li className={location.pathname === prefixLink('/profile/') ? 'nav-item active' : 'nav-item'}>
                 <Link to={prefixLink('/profile/')} className="nav-link">About</Link>
@@ -25,18 +25,8 @@ class SiteNavi extends React.Component {
               <li className={location.pathname === prefixLink('/') ? 'nav-item active' : 'nav-item'}>
                 <Link to={prefixLink('/')} className="nav-link">Notes</Link>
               </li>
-              <li className={location.pathname === prefixLink('/profile/#contact') ? 'nav-item active' : 'nav-item'}>
-                <Link to={prefixLink('/profile/')} className="nav-link">Contact</Link>
-              </li>
-              <li className="nav-item dropdown">
-                <a className="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Link
-                </a>
-                <div className="dropdown-menu bg-danger" aria-labelledby="navbarDropdownMenuLink">
-                  <a className="dropdown-item" href="https://github.com/vertedinde/">Github</a>
-                  <a className="dropdown-item" href="https://twitter.com/keeleyhammond">Twitter</a>
-                  <a className="dropdown-item" href="mailto:keeleyhammond@gmail.com">Email</a>
-                </div>
+              <li className={location.pathname === prefixLink('/contact/') ? 'nav-item active' : 'nav-item'}>
+                <Link to={prefixLink('/contact/')} className="nav-link">Contact</Link>
               </li>
             </ul>
           </div>
