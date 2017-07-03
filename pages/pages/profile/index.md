@@ -161,10 +161,10 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     </div>
     <div class="row">
       <div class="col-md-6" data-wow-duration="1.0s">
-        <p><a href="">View Upcoming Meetups </a><i class="fa fa-meetup fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
+        <p style="color:white;"><a href="https://www.meetup.com/Women-Who-Code-Portland/">View Upcoming Meetups </a><i class="fa fa-meetup fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
       </div>
       <div class="col-md-6" data-wow-duration="1.0s">
-        <p><a href="">Join Our Slack </a><i class="fa fa-slack fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
+        <p style="color:white;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc7nw_7AD050b8vXM35_9fyxf-pkBek9iK11wWImgIV80ZiOQ/viewform?usp=sf_link">Join Our Slack </a><i class="fa fa-slack fa-lg wow bounceIn" data-wow-duration="2.0s"></i></p>
       </div>
     </div>
   </div>

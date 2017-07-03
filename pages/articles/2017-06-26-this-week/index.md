@@ -1,5 +1,5 @@
 ---
-title: This Week (June 26)
+title: Trails and Donut JS
 date: "2017-06-26T22:40:32.169Z"
 layout: post
 path: "/this-week-june-26/"

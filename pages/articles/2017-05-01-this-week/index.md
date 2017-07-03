@@ -1,9 +1,9 @@
 ---
-title: This Week (May 1)
+title: Akron Marathon
 date: "2017-05-01T23:46:37.121Z"
 layout: post
 path: "/this-week-may-01/"
-category: "thisweekx"
+category: "thisweek"
 description: "Happy Monday! I'm writing this from Akron, OH, visiting my parents and family. Yesterday, my mom and I ran the Pro Football Hall of Fame half marathon for the fifth time - it was blazing hot and dustry, but we did pretty well."
 ---
 
