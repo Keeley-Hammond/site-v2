@@ -26,3 +26,11 @@
     background-color: #00B7AB;
     color: white;
 }
+
+.bg-bg a {
+    color: white;
+}
+
+.bg-bg a:hover {
+    color: grey;
+}

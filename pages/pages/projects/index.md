@@ -145,10 +145,13 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         </div>
         <div class="col-md-6 text-xs-left">
             <li><a href="https://github.com/nodejs/node">Node.js (core)</a></li>
+            <li><a href="https://github.com/nodejs/nodejs.org">Node.js (website working group)</a></li>
             <li><a href="">Diamond Compiler</a></li>
             <li><a href="https://github.com/HabitRPG/habitica">Habitica</a></li>
             <li><a href="https://github.com/noopkat/avrgirl-arduino">avrgirl-arduino</a></li>
             <li><a href="https://github.com/rachelnicole/pigallery">Tiny Gallery</a></li>
+            <li><a href="https://github.com/Leaflet/Leaflet">Leaflet</a></li>
+            <li><a href="https://medium.com/@kentcdodds/first-timers-only-78281ea47455">First Timers Only</a></li>
         </div>
     </div>
     </br>
