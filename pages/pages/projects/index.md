@@ -14,7 +14,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Portfolio </h2>
+        <h2>Highlighted Projects </h2>
         <hr class="primary" />
       </div>
     </div>
@@ -25,12 +25,12 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         <h4>Good Cents</h4>
         <img src="" />
         <p>Good Cents uses the Plaid API and banking software to allow users to collect their "spare change" from transactions (rounded to the next nearest dollar) and save that change for a larger goal or charitable donation.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/good-cents-api">View Repo →</a></p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
         <h4>HOPS Music</h4>
         <p>HOPS Music allows people to create a new playlist based on selected friends’ recently playing songs. Users can auto-generate, name, edit and export their playlists to Spotify.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/hops-music">View Repo →</a></p>
       </div>
     </div>
     </br>
@@ -38,12 +38,20 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
       <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
         <h4>Chart My Run</h4>
         <p>A visualization of the New York City Marathon 2016 Strava data, using Chart.js and d3 libraries. Node and a data scraper used to collect Strava data.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/chart-my-marathon">View Repo →</a></p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
         <h4>'First Timer's Only'</h4>
         <p>Curriculum designed for Mozilla and Women Who Code Portland, meant to help beginning coders make their first contributions to the open source community.</p>
         <p><a a href="">Read More →</a></p>
+      </div>
+    </div>
+  </div>
+  </br>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <p class="text-center"><a a href="https://github.com/VerteDinde">View my full GitHub here <i class="fa fa-github fa-lg wow bounceIn" data-wow-duration="2.0s"></i></a></p>
       </div>
     </div>
   </div>

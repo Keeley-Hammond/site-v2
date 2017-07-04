@@ -10,7 +10,6 @@ guid: http://jaxx2104.info/?page_id=1380
 image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 ---
 
-
 <section class="text-left">
   <div class="container">
     <img src="keeley-pic.jpg" alt="keeley-pic" class="rounded-circle mx-auto d-block" width="120px">
@@ -111,7 +110,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Portfolio </h2>
+        <h2>Highlighted Projects </h2>
         <hr class="primary" />
       </div>
     </div>
@@ -122,12 +121,12 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         <h4>Good Cents</h4>
         <img src="" />
         <p>Good Cents uses the Plaid API and banking software to allow users to collect their "spare change" from transactions (rounded to the next nearest dollar) and save that change for a larger goal or charitable donation.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/good-cents-api">View Repo →</a></p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
         <h4>HOPS Music</h4>
         <p>HOPS Music allows people to create a new playlist based on selected friends’ recently playing songs. Users can auto-generate, name, edit and export their playlists to Spotify.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/hops-music">View Repo →</a></p>
       </div>
     </div>
     </br>
@@ -135,7 +134,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
       <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
         <h4>Chart My Run</h4>
         <p>A visualization of the New York City Marathon 2016 Strava data, using Chart.js and d3 libraries. Node and a data scraper used to collect Strava data.</p>
-        <p><a a href="">View Repo →</a></p>
+        <p><a a href="https://github.com/VerteDinde/chart-my-marathon">View Repo →</a></p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
         <h4>'First Timer's Only'</h4>
