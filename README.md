@@ -1,4 +1,6 @@
-This is a test suite for my new personal site in React and Gatsby!
+## Personal Site v2 🚀 🌟
+
+This is the second version of my personal site, built in React and Gatsby!
 
 ### Style inspiration: 
 * http://www.fiftycoffees.com/
@@ -7,9 +9,6 @@ This is a test suite for my new personal site in React and Gatsby!
 * https://www.kapadiya.net/?utm_source=github.com#
 * http://vaidehijoshi.github.io/
 
-This site is (obviously) in progress. Docs that I need:
-
 Gatsby Docs: https://www.npmjs.com/package/gatsby
 
-Fave Themes:
-Gatstrap: https://jaxx2104.github.io/gatsby-starter-bootstrap/
+This site is a modified version of Gatstrap: https://jaxx2104.github.io/gatsby-starter-bootstrap/
