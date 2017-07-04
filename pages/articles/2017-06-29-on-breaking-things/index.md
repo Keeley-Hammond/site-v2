@@ -4,7 +4,7 @@ date: "2017-06-29T22:40:32.169Z"
 layout: post
 path: "/on-breaking-things/"
 category: "technicalthursday"
-description: "One of my first forays into code happened because I didn’t want to pay for airport wifi."
+description: "One of my first forays into code happened because I didn’t want to pay for airport wifi. It was Chicago, specifically, one of the last airports where Boingo still has a stronghold over the “first 30 minutes are free, all other minutes thereafter will be $50 each” airport internet market."
 ---
 
 One of my first forays into code happened because I didn’t want to pay for airport wifi.
