@@ -7,7 +7,7 @@
     "develop": "gatsby develop",
     "build": "npm run clean & gatsby build & copy",
     "clean:public": "rm -rf docs",
-    "clean": "npm run clean:docs",
+    "clean": "npm run clean:public",
     "copy:files": "cp pages/*.{pdf,txt,png,jpg,jpeg,gif} public/",
     "copy": "npm run copy:files",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
