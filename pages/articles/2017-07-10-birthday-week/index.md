@@ -1,13 +1,13 @@
 ---
-title: Birthday Week
-date: "2017-07-04T22:40:32.169Z"
+title: This Week w/ Wieden+Kennedy
+date: "2017-07-10T22:40:32.169Z"
 layout: post
 path: "/this-week-july-10/"
 category: "thisweek"
 description: "Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday."
 ---
 
-Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday!
+Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday.
 
 Here's what's going on in Portland this week and next week:
 
@@ -33,7 +33,7 @@ Promoting my usual two running meetups; if you need a crew of people to run with
 
 Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
-* Really enjoyed @noopkat's livestream this week, [where she did a live unboxing of the newest AdaBox 004 and worked an avrgirl-arduino.](https://www.twitch.tv/videos/156064343) I'm a big fan of her streams in general, but really liked this one.
+* Remember @noopkat, who I mentioned last week as [having great weekly live streams?](https://www.twitch.tv/videos/156064343) She wrote a blog recently about her experience live streaming her open source work for a full year.
 * Tomomi Imura wrote a great blog post on [building a sentiment analysis bot with IBM Watson and Raspberry Pi.](https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803) She uses Express and ngrok, so the code is very accessible. I have a Raspberry Pi 2, and tried spinning up the Express server - going to head to Ctrl-H this week and see if I can use their 3D printer, instead of ordering IBM's TJBot. 
 * This is not at all light reading, but a good friend recently recommended [Functional-Light JavaScript by Kyle Sampson, author of 'You Don't Know JS', one of my favorite series.](https://github.com/getify/Functional-Light-JS/tree/1681b7d181367066edd3bb81c4cc18ff44ed7406) I want to get better at functional programming and organizing by code and this has been a good read so far - tempted to get a physical copy so I can read it out in the sun and take a pen to it.
 * Finally, a shoutout to [Vaidehi Joshi's Base CS Series, where she breaks down a computer science concept every Monday.](https://medium.com/basecs) Her newest article on heaps is a great read. 

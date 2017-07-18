@@ -4,7 +4,7 @@ date: "2017-07-13T22:40:32.169Z"
 layout: post
 path: "/this-week-july-13/"
 category: "technicalthursday"
-description: "It's been a whirlwind past few days; ."
+description: "I've been thinking a lot recently about the difference between a junior developer and a senior developer. There's a variety of tangible and intangible qualities that make up both positions, but the hard skill that has me most curious is the quality of code."
 ---
 
 Before I dive into this, I just want to give a shoutout about the event I'm hosting with Women Who Code tonight(!) - [WWC Networking Night @ Wieden+Kennedy - Intro to VR & Wearable Tech.](https://www.eventbrite.com/e/networking-night-wiedenkennedy-intro-to-vr-wearable-tech-tickets-35443175492) It looks like it's going to be an incredible night, and you should all come out.
