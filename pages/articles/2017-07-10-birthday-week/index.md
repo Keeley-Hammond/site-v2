@@ -7,7 +7,7 @@ category: "thisweek"
 description: "Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday."
 ---
 
-Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday.
+Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday. So this will just be a quick reminder of events happening.
 
 Here's what's going on in Portland this week and next week:
 
@@ -33,9 +33,8 @@ Promoting my usual two running meetups; if you need a crew of people to run with
 
 Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
-* Remember @noopkat, who I mentioned last week as [having great weekly live streams?](https://www.twitch.tv/videos/156064343) She wrote a blog recently about her experience live streaming her open source work for a full year.
-* Tomomi Imura wrote a great blog post on [building a sentiment analysis bot with IBM Watson and Raspberry Pi.](https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803) She uses Express and ngrok, so the code is very accessible. I have a Raspberry Pi 2, and tried spinning up the Express server - going to head to Ctrl-H this week and see if I can use their 3D printer, instead of ordering IBM's TJBot. 
-* This is not at all light reading, but a good friend recently recommended [Functional-Light JavaScript by Kyle Sampson, author of 'You Don't Know JS', one of my favorite series.](https://github.com/getify/Functional-Light-JS/tree/1681b7d181367066edd3bb81c4cc18ff44ed7406) I want to get better at functional programming and organizing by code and this has been a good read so far - tempted to get a physical copy so I can read it out in the sun and take a pen to it.
-* Finally, a shoutout to [Vaidehi Joshi's Base CS Series, where she breaks down a computer science concept every Monday.](https://medium.com/basecs) Her newest article on heaps is a great read. 
+* Remember @noopkat, who I mentioned last week as [having great weekly live streams?](https://www.twitch.tv/videos/156064343) She wrote a blog recently about [her experience live streaming her open source work for a full year.](http://meow.noopkat.com/lessons-from-one-year-of-streaming-on-twitch/) She provides details about her schedule, as well as her technical setup, for anyone who's looking to get into streaming.
+* I thought this was a good writeup on a classic interview question: [Three ways to reverse a string in Javascript.](https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb) It's written by the folks over at freeCodeCamp, and does a nice job of showing different solutions and approaches.
+* Finally, I know I've mentioned her before, but a shoutout to [Vaidehi Joshi's Base CS Series, where she breaks down a computer science concept every Monday.](https://medium.com/basecs) Her newest article on counting sorts is a great read, and she gives away stickers to readers! 
 
 Have a great week, everybody!

@@ -1,13 +1,41 @@
 ---
-title: This Week w/ Wieden+Kennedy
+title: VR Demos and Donut Photo Booths
 date: "2017-07-17T22:40:32.169Z"
 layout: post
 path: "/this-week-july-17/"
 category: "thisweek"
-description: "Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday."
+description: "Happy Monday! Thursday's Wieden+Kennedy event was a smashing success - we had great VR demos with Unity, an LED wearable workshop led by engineers of the Lodge team and a donut photo booth - where you could print and eat your own face. Thanks so much to the ladies of W+K and Women Who Code who made everything possible."
 ---
 
-Happy Monday! It's going to be a busy week this week - my father is coming to visit on Tuesday, I'm traveling to Seattle on business for Tuesday & Wednesday, and my birthday is on Thursday.
+Happy Monday! Thursday's Wieden+Kennedy event was a smashing success - we had great VR demos with Unity, an LED wearable workshop led by engineers of the Lodge team and a donut photo booth - where you could print and eat your own face. 
+
+<div class="row">
+  <div class="col-md-6 ">
+    <figure>
+    <img style="height: 310px;" src="./led_demo.jpg" alt="LED demo">
+    </figure>
+  </div>
+  <div class="col-md-6 text-xs-left">
+    <figure>
+    <img style="height: 310px;" src="./vr_demo.jpg" alt="VR demo">
+    </figure>
+  </div>
+</div>
+
+Thanks so much to the ladies of W+K and Women Who Code who made everything possible- and who sang "Happy Birthday" to me at the end of the event.
+
+<div class="row">
+  <div class="col-md-6 ">
+    <figure>
+    <img style="height: 310px;" src="./donut_photo_booth.jpg" alt="Donut photo booth">
+    </figure>
+  </div>
+  <div class="col-md-6 text-xs-left">
+    <figure>
+    <img style="height: 310px;" src="./wwc_donut.jpg" alt="Women Who Code donut">
+    </figure>
+  </div>
+</div>
 
 Here's what's going on in Portland this week and next week:
 
