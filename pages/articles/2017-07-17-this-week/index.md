@@ -50,7 +50,7 @@ If you're in PDX tech:
 
 While not happening this week, I also wanted to give a shout out to two upcoming longer-form conferences:
 
-
+* [August 1-3: Portland DevOps Days.](https://www.devopsdays.org/events/2017-portland) DevOps Days is an international conference on all things DevOps, and PDX's includes an awesome night event at OMSI. Let me know if you'll be there - I'm volunteering!
 * [August 8-9: Alexa Skills Tour, Powered by Voicehacks.](https://www.voicehacks.com/tour/portland) Throwing this out there now, as the first 100 registrations are free. The two day workshop will cover how to design, build, and launch skills for Alexa.
 
 ### Non-Tech Events: 
