@@ -64,9 +64,9 @@ Promoting my usual two running meetups; if you need a crew of people to run with
 
 Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
-* [PLACEHOLDER](https://www.twitch.tv/videos/156064343) 
+* Dev.To ran a good #devdiscuss this week about good and bad programming habits. [You can read some of the highlights here, or click the hashtag on Twitter.](https://dev.to/thepracticaldev/good-and-bad-dev-habits-from-perfectionism-and-to-git-commit-messages) 
 * Wired had an article this week that was getting passed around my Twitter timeline, [about making code more tinkerer friendly.](https://www.wired.com/story/clive-thompson-tinker-with-code/) I remember messing with my first bits of code on Xanga and Gaia Online, and love the concept.
-* Speaking of tinker-friendly: I want to give a shout out to Glitch, which I just started using for a Leaflet project with Hack Oregon; [you can view and remix my project here.](https://glitch.com/edit/#!/grocery-geojson) Uses some QGIS and geoJSON. 
-* Finally, [Vaidehi Joshi's Base CS Series, where she breaks down a computer science concept every Monday.](https://medium.com/basecs) . 
+* Speaking of tinker-friendly: I want to give a shout out to Glitch, which I just started using for a Leaflet project with Hack Oregon; [you can view and remix my project here.](https://glitch.com/edit/#!/grocery-geojson) Uses some QGIS and geoJSON, but would love people to tinker with it. 
+* Finally, I've been reviewing some JavaScript basics for a new project and [found this excellent article on hoisting.](https://dev.to/imwiss/understanding-hoisting-in-javascript) It covers a pretty basic concept, but was a good refresher. 
 
 Have a great week, everybody!

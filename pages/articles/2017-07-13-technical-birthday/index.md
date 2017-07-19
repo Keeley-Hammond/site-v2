@@ -63,46 +63,14 @@ String.prototype.toJadenCase = function () {
 
 * [*Credit to Code Wars for the problem, which you can do here with an account*](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
-This is admittedly a very small problem, but illustrates some clear differences in thinking. One, for example, has a lot of variables declared. One makes good use of string and array methods, such as `.map` and `.chartAt()`.  
+This is admittedly a very small problem, but illustrates some clear differences in thinking. 
 
+One, for example, has a lot of variables declared - frankly, more than are needed. One makes good use of string and array methods, such as `.map` and `.chartAt()`. One is much, much shorter.
 
+Is that more advanced code? Shorter, using more sophisticated methods? More readable? Would you even allow something similar to the first solution into your company's codebase? I ask these questions not with judgement, but genuine curiosity.
 
 One piece of advice that I found very helpful:
 
 'Specific examples are hard to give, there are different styles and opinions. Mainly I consider a good programmer someone who understands that she's programming for the next person to read, not to make the machine run, and codes appropriately.'
 
-
-
-
-
-
-
-
-
-
-DELETE BELOW:
-
-```js
-    x = x + 1;
-    let firstThree = parseInt(x.toString().substring(0,3));
-    let lastThree = x % 1000;
-    
-    function sumInt(int){
-        let num = int;
-        let sum = 0;
-        while (num > 0) {
-            sum = sum + num % 10;
-            num = num / 10;
-        }
-        return Math.floor(sum);
-    }
-    
-    if (sumInt(firstThree) === sumInt(lastThree)) {
-        console.log('YES: ', typeof(x));
-        x = x.toString();
-        console.log('STRING: ', typeof(x));
-        return x;
-    }
-    else onceInATram(x);
-}
-```
+What do you think? What do you look for in junior and senior code, and where's the line for what you'd allow in a codebase?
