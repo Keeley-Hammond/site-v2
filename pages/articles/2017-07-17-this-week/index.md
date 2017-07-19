@@ -64,9 +64,9 @@ Promoting my usual two running meetups; if you need a crew of people to run with
 
 Here are a few articles, podcasts and assorted things that I’ve enjoyed over the past week — give yourself a little mental boost on your Monday morning:
 
-* [having great weekly live streams?](https://www.twitch.tv/videos/156064343) 
-* There [building a sentiment analysis bot with IBM Watson and Raspberry Pi.](https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803). 
-* This [Functional-Light JavaScript by Kyle Sampson, author of 'You Don't Know JS', one of my favorite series.](https://github.com/getify/Functional-Light-JS/tree/1681b7d181367066edd3bb81c4cc18ff44ed7406) .
+* [PLACEHOLDER](https://www.twitch.tv/videos/156064343) 
+* Wired had an article this week that was getting passed around my Twitter timeline, [about making code more tinkerer friendly.](https://www.wired.com/story/clive-thompson-tinker-with-code/) I remember messing with my first bits of code on Xanga and Gaia Online, and love the concept.
+* Speaking of tinker-friendly: I want to give a shout out to Glitch, which I just started using for a Leaflet project with Hack Oregon; [you can view and remix my project here.](https://glitch.com/edit/#!/grocery-geojson) Uses some QGIS and geoJSON. 
 * Finally, [Vaidehi Joshi's Base CS Series, where she breaks down a computer science concept every Monday.](https://medium.com/basecs) . 
 
 Have a great week, everybody!
