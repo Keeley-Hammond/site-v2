@@ -14,12 +14,12 @@ Thursday's Wieden+Kennedy event was a smashing success. We had great VR demos wi
 <div class="row">
   <div class="col-md-6 ">
     <figure>
-    <img style="height: 310px;" src="./led_demo.jpg" alt="LED demo">
+    <img style="height: 310px;" src="./led-demo.jpg" alt="LED demo">
     </figure>
   </div>
   <div class="col-md-6 text-xs-left">
     <figure>
-    <img style="height: 310px;" src="./vr_demo.jpg" alt="VR demo">
+    <img style="height: 310px;" src="./vr-demo.jpg" alt="VR demo">
     </figure>
   </div>
 </div>
@@ -27,12 +27,12 @@ Thursday's Wieden+Kennedy event was a smashing success. We had great VR demos wi
 <div class="row">
   <div class="col-md-6 ">
     <figure>
-    <img style="height: 310px;" src="./donut_photo_booth.jpg" alt="Donut photo booth">
+    <img style="height: 310px;" src="./donut-photo-booth.jpg" alt="Donut photo booth">
     </figure>
   </div>
   <div class="col-md-6 text-xs-left">
     <figure>
-    <img style="height: 310px;" src="./wwc_donut.jpg" alt="Women Who Code donut">
+    <img style="height: 310px;" src="./wwc-donut.jpg" alt="Women Who Code donut">
     </figure>
   </div>
 </div>
