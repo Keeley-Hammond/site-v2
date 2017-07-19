@@ -58,9 +58,10 @@ server.listen(PORT, () => {
   console.log(`Server listening on ${PORT}`);
 });
 ```
-Express is fairly low weight and the functionality is not
 
-Let's look at Express routing. The code below is a paired down version of the routing we used for songs in HOPS Music, a side project I've been working on. NOTE: We're using MongoDB and Mongoose for HOPS Music, so some of the methods below (`.save()`, `.find()`, etc) are Mongoose, not strictly Express. I've also removed some methods (like `.lean()`) to add readability here:
+Let's look at Express routing. The code below is a paired down version of the routing we used for songs in HOPS Music, a side project I've been working on. 
+
+NOTE: We're using MongoDB and Mongoose for HOPS Music, so some of the methods below (`.save()`, `.find()`, etc) are Mongoose, not strictly Express. I've also removed some methods (like `.lean()`) to add readability here:
 
 ```js
 const Router = require('express').Router;
@@ -122,7 +123,9 @@ Right away you can see the similarities. Essentally you just required koa instea
 
 What makes Koa truly standout - and what actually led to me working with it - is its way to ditch callback completely by either using ES6 function generators or the newer async/await control flow. It also eliminates much of the middleware that Express uses.
 
-Generators are new to JavaScript, but had been used in other languages; one person comapred them to `interruption` in C. Generators introduced a means to run -> halt and run something else -> come back. Koa 1 is famous for supporting generator-based control out of the box, at a time when most frameworks didn't. This is what a typical piece of code for Koa 1 that uses the middleware cascading and improved error handling looks like:
+Generators are new to JavaScript, but had been used in other languages; one person comapred them to `interruption` in C. Generators introduced a means to run -> halt and run something else -> come back. 
+
+Koa 1 is famous for supporting generator-based control out of the box, at a time when most frameworks didn't. This is what a typical piece of code for Koa 1 that uses the middleware cascading and improved error handling looks like:
 
 ```js
 // Taken from https://github.com/koajs/koa
@@ -251,6 +254,8 @@ Express, on the other hand, augments node's req and res objects with additional 
 
 Hapi is a bit more robust than either Express or Koa. It's a "feature rich framework" (as described in the docs) that favors configuration over code and attempts to cover a wider ranger of use cases out of the box. It was originally created by a member of WalmartLabs, and it is intended for large teams and large projects. Because of this, it can be a bit boilerplate-heavy for small projects.
 
+Let's set up our server:
+
 ```js
 const Hapi = require('hapi');
 const PORT = process.env.PORT || 3000;
@@ -308,7 +313,9 @@ server.start(() => {
 });
 ```
 
-You can see right away that, for each API call, we have to write a lot more code than we had to write with Express. Hapi’s configuration-centric approach does tend to mean more boilerplate, and that can make it more error prone. That's not to say that more boilerplate is always a bad thing; for larger teams, for example, Hapi may be more consistent and self-descriptive and thus easier to read and parse.
+You can see right away that, for each API call, we have to write a lot more code than we had to write with Express. Hapi’s configuration-centric approach does tend to mean more boilerplate, and that can make it more error prone. 
+
+That's not to say that more boilerplate is always a bad thing; for larger teams, for example, Hapi may be more consistent and self-descriptive and thus easier to read and parse. I also know a several Node developers who like to have the extra control over their code, and so prefer to write out the methods and handlers this way. I don't think it's personally for me, but to each their own!
 
 ### Conclusion
 
