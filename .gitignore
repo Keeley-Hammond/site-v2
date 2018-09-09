@@ -1,7 +1,7 @@
 node_modules/
 public
-
 .gatsby-context.js
-pages/.manifest
-.idea
-.vscode
+.DS_Store
+.intermediate-representation/
+.cache/
+.vscode/
