@@ -24,16 +24,57 @@ class Profile extends React.Component {
           <section className="text-center">
             <div className="container">
               <Img fixed={profile} className="rounded-circle" />
-              <h1>jaxx2104</h1>
-              <p className="lead text-muted">Front-end engineer.</p>
-              <div>
-                <a
-                  ref="twButton"
-                  href="https://twitter.com/jaxx2104"
-                  className="twitter-follow-button"
-                  data-show-count="false"
-                >
-                  Follow @jaxx2104
+              <h1>Hi, I'm Keeley.</h1>
+              <p className="lead text-muted text-left">
+                <a href="https://github.com/VerteDinde">
+                  I'm a software engineer currently living in Portland, Oregon
+                </a>
+                . I serve on the leadership team for the Portland chapter of
+                Women Who Code, where I focus on creating and teaching
+                programming curriculum that helps beginners start contributing
+                to OSS.
+              </p>
+              <p className="lead text-muted text-left">
+                I enjoy developing on the server side, speaking at conferences,
+                baking, long-distance running, and hacking away on interesting
+                problems. I primarily work with JavaScript (Node & React) and
+                Golang.
+              </p>
+              <p className="lead text-muted text-left">
+                When not coding, I enjoy{' '}
+                <a href="https://www.strava.com/athletes/3855756">
+                  running through the mountains of the Columbia Gorge
+                </a>
+                ,{' '}
+                <a href="https://blogs.oracle.com/ksplice/hijacking-http-traffic-on-your-home-subnet-using-arp-and-iptables">
+                  experimenting and learning new ways to route Internet traffic
+                </a>
+                , and listening to podcasts about American history.
+              </p>
+              <div className="service-box">
+                <a href="https://github.com/vertedinde">
+                  <i
+                    className="fa fa-github fa-lg wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
+                </a>
+                <a href="https://twitter.com/keeleyhammond">
+                  <i
+                    className="fa fa fa-twitter fa-lg wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
+                </a>
+                <a href="https://www.linkedin.com/in/keeleyhammond">
+                  <i
+                    className="fa fa fa-linkedin fa-lg wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
+                </a>
+                <a href="https://codepen.io/VerteDinde/">
+                  <i
+                    className="fa fa fa-codepen fa-lg wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
                 </a>
               </div>
             </div>
@@ -43,7 +84,7 @@ class Profile extends React.Component {
             <div className="container">
               <div className="row">
                 <div className="col-lg-12">
-                  <h2 className="section-heading">SKILL</h2>
+                  <h2 className="section-heading">Skills</h2>
                   <hr className="border-white" />
                 </div>
               </div>
@@ -68,13 +109,13 @@ class Profile extends React.Component {
                   <Icon title="Node.js" name="node" />
                 </div>
                 <div className="col-lg-3 col-6 ">
-                  <Icon title="PHP" name="php" />
+                  <Icon title="Python" name="python" />
                 </div>
                 <div className="col-lg-3 col-6 ">
                   <Icon title="AWS" name="aws" />
                 </div>
                 <div className="col-lg-3 col-6 ">
-                  <Icon title="Swift" name="apple" />
+                  <Icon title="Docker" name="docker" />
                 </div>
               </div>
             </div>
@@ -85,15 +126,17 @@ class Profile extends React.Component {
             <div className="container">
               <div className="row cover-over">
                 <div className="col-md-12 text-left">
-                  <h2 className="section-heading">Features</h2>
+                  <h2 className="section-heading">Work</h2>
                   <p>
-                    I'm a front-end engineer in Japan 🗼
+                    I'm currently a front-end engineer for InVision, working on
+                    InVision Studio.
                     <br />
-                    Used to be a designer of furniture and architecture.
+                    Used to be a stop-motion animator and an accounts director
+                    at Think Shift, a creative agency.
                     <br />
                   </p>
-                  <li>2013 ~ 2017: J-CAST News</li>
-                  <li>2017 ~ : Recruit Lifestyle</li>
+                  <li>2017 ~ Present: InVision, Studio team</li>
+                  <li>2016 ~ 2014: Think Shift</li>
                 </div>
               </div>
             </div>
@@ -106,20 +149,48 @@ class Profile extends React.Component {
             <div className="container">
               <div className="row">
                 <div className="col-lg-12">
-                  <h2 className="section-heading">WORKS</h2>
+                  <h2 className="section-heading">Community</h2>
                   <hr className="border-white" />
                 </div>
               </div>
             </div>
             <div className="container">
+              <div>
+                <p>
+                  I'm on the leadership team for Women Who Code's Portland
+                  chapter. We host meetups every month around algorithms/data
+                  structures, Javascript, design, React and open source
+                  contributions. We always welcome new members. Join us!
+                </p>
+              </div>
               <div className="row">
-                <div className="col-md-6 slide-left" data-emergence="hidden">
-                  <Img sizes={work1} />
-                  <p>Yomu</p>
+                <div className="col-md-6" data-wow-duration="1.0s">
+                  <p className="text-white">
+                    <a
+                      className="text-white"
+                      href="https://www.meetup.com/Women-Who-Code-Portland/"
+                    >
+                      View Upcoming Meetups{' '}
+                    </a>
+                    <i
+                      className="fa fa-meetup fa-lg wow bounceIn"
+                      data-wow-duration="2.0s"
+                    />
+                  </p>
                 </div>
-                <div className="col-md-6 slide-right" data-emergence="hidden">
-                  <Img sizes={work2} />
-                  <p>Detector</p>
+                <div className="col-md-6" data-wow-duration="1.0s">
+                  <p className="text-white">
+                    <a
+                      className="text-white"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSc7nw_7AD050b8vXM35_9fyxf-pkBek9iK11wWImgIV80ZiOQ/viewform?usp=sf_link"
+                    >
+                      Join Our Slack{' '}
+                    </a>
+                    <i
+                      className="fa fa-slack fa-lg wow bounceIn"
+                      data-wow-duration="2.0s"
+                    />
+                  </p>
                 </div>
               </div>
             </div>
@@ -129,27 +200,28 @@ class Profile extends React.Component {
             <div className="container">
               <div className="row align-items-center">
                 <div className="col-md-12 text-left">
-                  <h2 className="section-heading">Repositories</h2>
-                  <p>
-                    リポジトリは
-                    <a href="https://github.com/jaxx2104/">こちら</a>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
-          <section id="features" className="jumboimage">
-            <Img sizes={back2} className="cover-image" />
-            <div className="container">
-              <div className="row cover-over">
-                <div className="col-md-12 text-left">
-                  <h2 className="section-heading">Degree Works</h2>
-                  <p>
-                    過去の制作は
-                    <a className="text-white" href="https://old.jaxx2104.info/">
-                      こちら
-                    </a>
-                  </p>
+                  <h2 className="section-heading">Contact</h2>
+                  <div className="container">
+                    <p className="text-muted">
+                      If you’re ever in the Portland, OR area, or would just
+                      like to chat, you can reach me a few different ways.
+                    </p>
+                    <p className="text-muted">
+                      I like{' '}
+                      <a href="mailto:keeleyhammond@gmail.com">reading email</a>
+                      . I also like{' '}
+                      <a href="https://twitter.com/keeleyhammond">tweets</a>.
+                      You can find me as @keeley in the Women in Tech Slack.
+                    </p>
+                    <p className="text-muted">
+                      And if you happen to be running or biking somewhere in
+                      Portland, hit me up on{' '}
+                      <a href="https://www.strava.com/athletes/3855756">
+                        Strava
+                      </a>
+                      ! I’m always open to a new running buddy.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
