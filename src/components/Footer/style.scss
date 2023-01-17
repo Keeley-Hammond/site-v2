@@ -1,0 +1,19 @@
+@import 'scss/colors.scss';
+
+.footer {
+  hr {
+    border-color: $red;
+    border-width: 3px;
+    max-width: 50px;
+  }
+}
+
+.service-box {
+  margin: 50px auto 0;
+  text-align: center;
+}
+
+.service-box i {
+  margin-bottom: 30px;
+  margin-right: 10px;
+}

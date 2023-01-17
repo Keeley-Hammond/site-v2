@@ -1,14 +1,38 @@
-## Personal Site v2 🚀 🌟
+# Gatstrap
 
-This is the second version of my personal site, built in React and Gatsby!
+[![Build Status](https://travis-ci.org/jaxx2104/gatsby-starter-bootstrap.svg?branch=master)](https://travis-ci.org/jaxx2104/gatsby-starter-bootstrap)
+[![dependency Status](https://img.shields.io/david/jaxx2104/gatsby-starter-bootstrap.svg?style=flat-square)](https://david-dm.org/jaxx2104/gatsby-starter-bootstrap#info=dependencies)
 
-### Style inspiration: 
-* http://www.fiftycoffees.com/
-* https://blog.hubspot.com/marketing/best-personal-websites
-* http://jessicaharllee.com/about/
-* https://www.kapadiya.net/?utm_source=github.com#
-* http://vaidehijoshi.github.io/
+Gatsby starter for bootstrap a blog
 
-Gatsby Docs: https://www.npmjs.com/package/gatsby
+![thumb](https://user-images.githubusercontent.com/2681007/42584980-656c9406-856f-11e8-882f-cafa9d89b395.png)
 
-This site is a modified version of Gatstrap: https://jaxx2104.github.io/gatsby-starter-bootstrap/
+## GatsbyJS v2-beta, v1, v0
+
+- For v2 beta version of this starter, check out the [master branch](https://github.com/jaxx2104/gatsby-starter-bootstrap).
+- For v1 version, check out the [v1 branch](https://github.com/jaxx2104/gatsby-starter-bootstrap/tree/v1).
+- For v0 version, check out the [v0 branch](https://github.com/jaxx2104/gatsby-starter-bootstrap/tree/v0).
+- Make sure to read the [migration guide](https://next.gatsbyjs.org/docs/migrating-from-v1-to-v2/) when porting v1 projects to v2.
+
+## Features
+
+- Single column layout
+- Simple components: Post, Page, Navi, Footer etc.
+- [Twitter Bootstrap 4](https://github.com/twbs/bootstrap) css framework.
+- Custom theme color.
+
+## Installation
+
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+`gatsby new gatstrap https://github.com/jaxx2104/gatsby-starter-bootstrap`
+
+## Usage
+
+develop
+`gatsby develop`
+
+### Custom Theme
+
+`/src/layouts/gatstrap.css`
+
+![1f466b07-5506-4c8d-8d17-8d02b42d6d0d](https://user-images.githubusercontent.com/2681007/43086458-5092d0be-8ed8-11e8-8125-8b336fdd3b43.gif)
